@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\firstApp\firstApp\bin\Debug\firstApp.exe.config
+C:\Users\Teacher\source\repos\firstApp\firstApp\bin\Debug\firstApp.exe
+C:\Users\Teacher\source\repos\firstApp\firstApp\bin\Debug\firstApp.pdb
+C:\Users\Teacher\source\repos\firstApp\firstApp\obj\Debug\firstApp.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\firstApp\firstApp\obj\Debug\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\firstApp\firstApp\obj\Debug\firstApp.exe
+C:\Users\Teacher\source\repos\firstApp\firstApp\obj\Debug\firstApp.pdb
