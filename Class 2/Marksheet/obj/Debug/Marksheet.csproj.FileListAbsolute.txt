@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\Marksheet\Marksheet\bin\Debug\Marksheet.exe.config
+C:\Users\Teacher\source\repos\Marksheet\Marksheet\bin\Debug\Marksheet.exe
+C:\Users\Teacher\source\repos\Marksheet\Marksheet\bin\Debug\Marksheet.pdb
+C:\Users\Teacher\source\repos\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+C:\Users\Teacher\source\repos\Marksheet\Marksheet\obj\Debug\Marksheet.pdb
